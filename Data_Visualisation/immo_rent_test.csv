@@ -1,0 +1,39 @@
+ID,locality,zipcode,Building condition,Price,Kitchen type,Living area,Furnished,Surface of the plot,Number of frontages,Swimming pool,Bedrooms,Garden,Garden surface,Terrace,Terrace surface,Type of property
+10336117,deinze,9800,TRUE,320000,Hyper equipped,96 m² square meters,FALSE,0,4,FALSE,2,TRUE,0,TRUE,16 m² square meters,Apartment
+10336120,deinze,9800,TRUE,365000,Hyper equipped,99 m² square meters,FALSE,0,4,FALSE,2,TRUE,0,TRUE,12 m² square meters,Apartment
+10336119,deinze,9800,TRUE,375000,Hyper equipped,91 m² square meters,FALSE,0,4,FALSE,2,TRUE,0,TRUE,12 m² square meters,Apartment
+10336521,bruxelles,1000,TRUE,785000,USA hyper equipped,144 m² square meters,FALSE,0,3,FALSE,3,FALSE,0,TRUE,12 m² square meters,Apartment
+10336118,deinze,9800,TRUE,230000,Hyper equipped,63 m² square meters,FALSE,0,4,FALSE,1,TRUE,0,TRUE,10 m² square meters,Apartment
+10336116,deinze,9800,TRUE,370000,Hyper equipped,85 m² square meters,FALSE,0,4,FALSE,2,TRUE,0,TRUE,28 m² square meters,Apartment
+10336445,diegem,1831,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336727,deinze,9800,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336715,deinze,9800,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10336704,gent,9000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10336505,ixelles,1050,FALSE,465000,Hyper equipped,95 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,4 m² square meters,Apartment
+10273116,vilvoorde,1800,FALSE,470000,Not installed,250 m² square meters,FALSE,220 m² square meters,2,FALSE,5,TRUE,110 m² square meters,TRUE,20 m² square meters,House
+10336734,oosterzele,9860,TRUE,470000,Installed,171 m² square meters,FALSE,1789 m² square meters,4,FALSE,3,TRUE,1396 m² square meters,TRUE,16 m² square meters,House
+10337092,ath-ostiches,7804,TRUE,585000,Installed,172 m² square meters,FALSE,2180 m² square meters,4,FALSE,3,TRUE,1700 m² square meters,TRUE,5 m² square meters,House
+10336541,bruxelles,1000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336790,ixelles,1050,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336498,dilbeek,1700,TRUE,665000,Installed,341 m² square meters,FALSE,801 m² square meters,4,FALSE,4,FALSE,0,TRUE,0,Mixed-use building
+10336785,uccle,1180,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336811,ixelles,1050,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10333235,vaux-sous-chevremont,4051,TRUE,170000,Not installed,100 m² square meters,FALSE,1056 m² square meters,4,FALSE,3,TRUE,880 m² square meters,FALSE,0,House
+9881253,brussels-city,1000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10334188,veurne,8630,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10333810,anderlecht,1070,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10333713,auderghem,1160,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10335072,blankenberge,8370,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10333531,ronse,9600,TRUE,289500,Hyper equipped,216 m² square meters,TRUE,403 m² square meters,2,FALSE,4,TRUE,300 m² square meters,TRUE,10 m² square meters,House
+10333345,gijzegem,9308,TRUE,310000,Hyper equipped,85 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,18 m² square meters,Apartment
+10333592,tintigny,6730,FALSE,315000,Installed,122 m² square meters,FALSE,1936 m² square meters,4,FALSE,4,TRUE,18 m² square meters,TRUE,11 m² square meters,House
+10334027,herstal,4040,TRUE,329000,USA hyper equipped,216 m² square meters,FALSE,894 m² square meters,3,FALSE,4,TRUE,770 m² square meters,TRUE,120 m² square meters,House
+10333199,woluwe-saint-lambert,1200,TRUE,340000,Hyper equipped,117 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,17 m² square meters,Apartment
+10337229,herstal-vottem,4041,TRUE,210000,Not installed,128 m² square meters,TRUE,187 m² square meters,3,FALSE,4,TRUE,80 m² square meters,TRUE,16 m² square meters,House
+10337227,seraing,4102,TRUE,199000,Installed,113 m² square meters,FALSE,147 m² square meters,3,FALSE,2,TRUE,95 m² square meters,TRUE,21 m² square meters,House
+10337211,hoogstraten,2320,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,None,0,House
+10337222,gembloux,5030,TRUE,279000,Installed,84 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,6 m² square meters,Apartment
+10337208,petit-han,6940,TRUE,299000,Installed,260 m² square meters,FALSE,657 m² square meters,2,FALSE,4,TRUE,0,None,0,House
+10337204,forest,1190,TRUE,179000,Semi equipped,65 m² square meters,FALSE,0,2,FALSE,1,FALSE,0,None,0,Apartment
+10208175,anderlecht,1070,FALSE,349000,Semi equipped,150 m² square meters,FALSE,0,0,FALSE,4,TRUE,75 m² square meters,None,0,House
+10288130,steenokkerzeel,1820,TRUE,299000,Installed,90 m² square meters,FALSE,0,0,FALSE,2,FALSE,0,TRUE,20 m² square meters,Mixed-use building
