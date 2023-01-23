@@ -30,3 +30,10 @@ Program consists of three different parts.
 3) The third part save all data in csv. All csv files are stored with the name "date & time"
 __________________________________________________________________________________
 PART II: Analysing data:
+Dataset Details: 
+1) Building condition: True if building in Good, New, Just renovated.
+2] Kitchen Type: True if kitchen equipped(no matter what type)
+3) Furnished: Trues if 'Yes'
+4) Swimming pool: True if 'Yes'
+5) Garden: True if 'Yes' or given the area
+6) Terrace: True if 'Yes' or given the area
