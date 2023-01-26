@@ -1,0 +1,153 @@
+ID,Locality,Sale_rent,Zipcode,Building condition,Price,Kitchen type,Living area,Furnished,Surface of the plot,Number of frontages,Swimming pool,Bedrooms,Garden,Garden surface,Terrace,Terrace surface,Type of property
+10338964,waterloo,for-sale,1410,TRUE,455000,TRUE,124 m² square meters,FALSE,0,0,FALSE,3,FALSE,0,TRUE,15 m² square meters,House
+10341180,anderlecht,for-sale,1070,TRUE,175000,TRUE,45 m² square meters,FALSE,0,2,FALSE,1,FALSE,0,TRUE,30 m² square meters,Mixed-use building
+10340836,liege,for-sale,4000,TRUE,265000,TRUE,110 m² square meters,FALSE,134 m² square meters,2,FALSE,2,TRUE,64 m² square meters,FALSE,0,Mixed-use building
+10340813,saint-nicolas,for-sale,4420,TRUE,279000,TRUE,140 m² square meters,FALSE,688 m² square meters,4,FALSE,4,TRUE,400 m² square meters,TRUE,0,House
+10340857,schaerbeek,for-sale,1030,TRUE,293000,TRUE,170 m² square meters,FALSE,1242 m² square meters,6,FALSE,6,TRUE,736 m² square meters,FALSE,0,Apartment
+10341051,waterloo,for-sale,1410,TRUE,307000,TRUE,200 m² square meters,FALSE,1796 m² square meters,8,FALSE,8,TRUE,1072 m² square meters,TRUE,0,Apartment
+10341195,ixelles,for-sale,1050,TRUE,399000,TRUE,75 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,34 m² square meters,House
+10341678,geraardsbergen,for-sale,9500,TRUE,399001,TRUE,76 m² square meters,FALSE,0,2,FALSE,3,FALSE,1,TRUE,35 m² square meters,House
+10340869,bruxelles,for-sale,1020,TRUE,549000,TRUE,205 m² square meters,FALSE,210 m² square meters,2,FALSE,4,TRUE,75 m² square meters,TRUE,6 m² square meters,House
+10341179,woluwe-saint-pierre,for-sale,1150,TRUE,699000,TRUE,160 m² square meters,FALSE,138 m² square meters,2,FALSE,4,TRUE,81 m² square meters,TRUE,13 m² square meters,House
+10341178,kampenhout,for-sale,1910,TRUE,995000,TRUE,275 m² square meters,FALSE,1538 m² square meters,4,FALSE,4,TRUE,1324 m² square meters,TRUE,30 m² square meters,Mixed-use building
+10340154,schaerbeek,for-sale,1030,TRUE,137500,TRUE,28 m² square meters,FALSE,0,4,FALSE,1,FALSE,0,TRUE,2 m² square meters,Apartment
+10339561,liege,for-sale,4020,TRUE,145000,TRUE,106 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,10 m² square meters,Apartment
+9881253,brussels-city,for-sale,1000,FALSE,145001,TRUE,107 m² square meters,FALSE,0,2,FALSE,3,FALSE,1,TRUE,11 m² square meters,Apartment
+10339573,bruxelles,for-sale,1000,FALSE,145002,TRUE,108 m² square meters,FALSE,0,2,FALSE,4,FALSE,2,TRUE,12 m² square meters,Apartment
+10338765,petit-hallet,for-sale,4280,TRUE,236000,TRUE,140 m² square meters,FALSE,470 m² square meters,2,FALSE,3,TRUE,200 m² square meters,TRUE,40 m² square meters,House
+10340155,brussels-city,for-sale,1000,TRUE,255000,TRUE,67 m² square meters,TRUE,0,2,FALSE,2,FALSE,0,TRUE,10 m² square meters,Apartment
+10339513,heist-op-den-berg,for-sale,2220,FALSE,255001,TRUE,68 m² square meters,TRUE,0,2,FALSE,3,FALSE,1,TRUE,11 m² square meters,Apartment
+10340227,molenbeek-saint-jean,for-sale,1080,TRUE,270000,TRUE,90 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,15 m² square meters,Apartment
+10338733,schaerbeek,for-sale,1030,TRUE,330000,TRUE,102 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,32 m² square meters,Apartment
+10338735,woluwe-saint-lambert,for-sale,1200,TRUE,340000,TRUE,85 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,4 m² square meters,Apartment
+10340196,gent,for-sale,9052,TRUE,340001,TRUE,86 m² square meters,FALSE,0,2,FALSE,3,FALSE,1,TRUE,5 m² square meters,Apartment
+10339016,braine-lalleud,for-sale,1420,TRUE,340002,TRUE,87 m² square meters,FALSE,0,2,FALSE,4,FALSE,2,TRUE,6 m² square meters,Apartment
+10339139,nivelles,for-sale,1400,TRUE,399000,TRUE,98 m² square meters,FALSE,589 m² square meters,4,FALSE,3,TRUE,466 m² square meters,TRUE,31 m² square meters,House
+10339760,bruxelles,for-sale,1000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10338975,grimbergen,for-sale,1850,TRUE,449000,TRUE,192 m² square meters,FALSE,169 m² square meters,2,FALSE,5,FALSE,0,TRUE,0,House
+10339003,braine-lalleud,for-sale,1420,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10339283,durbuy,for-sale,6941,TRUE,495000,TRUE,451 m² square meters,FALSE,1110 m² square meters,3,FALSE,5,TRUE,1110 m² square meters,TRUE,0,House
+10338890,aalst,for-sale,9300,TRUE,850000,TRUE,1264 m² square meters,FALSE,430 m² square meters,2,FALSE,8,FALSE,0,TRUE,0,Mixed-use building
+10193634,willebroek,for-sale,2830,TRUE,195000,TRUE,83 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,0,Apartment
+10342777,langemark-poelkapelle,for-sale,8920,TRUE,169000,TRUE,132 m² square meters,FALSE,186 m² square meters,0,FALSE,2,TRUE,0,TRUE,0,House
+10342776,kortemark,for-sale,8610,FALSE,329000,FALSE,172 m² square meters,FALSE,1050 m² square meters,0,FALSE,3,TRUE,0,FALSE,0,House
+10342775,gistel,for-sale,8470,FALSE,689000,FALSE,0,FALSE,2400 m² square meters,0,FALSE,1,FALSE,0,FALSE,0,House
+10342774,zingem,for-sale,9750,FALSE,399500,TRUE,150 m² square meters,FALSE,0,0,FALSE,3,TRUE,0,TRUE,0,Apartment
+10342772,evergem,for-sale,9940,TRUE,349000,TRUE,161 m² square meters,FALSE,216 m² square meters,0,FALSE,2,TRUE,0,FALSE,0,House
+10342766,poppel,for-sale,2382,TRUE,249000,TRUE,156 m² square meters,FALSE,610 m² square meters,3,FALSE,3,TRUE,345 m² square meters,FALSE,0,House
+10342765,knokke,for-sale,8300,FALSE,11000000,FALSE,995 m² square meters,FALSE,2348 m² square meters,0,TRUE,8,TRUE,0,TRUE,0,Mixed-use building
+10342764,knokke,for-sale,8300,TRUE,625000,FALSE,121 m² square meters,FALSE,121 m² square meters,0,FALSE,3,TRUE,0,TRUE,0,House
+10337600,duffel,for-sale,2570,TRUE,210000,TRUE,95 m² square meters,FALSE,0,0,FALSE,2,FALSE,0,TRUE,0,Apartment
+10338090,geistingen,for-sale,3640,TRUE,210001,TRUE,96 m² square meters,FALSE,0,0,FALSE,3,FALSE,1,TRUE,1,House
+10336445,diegem,for-sale,1831,TRUE,210002,TRUE,97 m² square meters,FALSE,0,0,FALSE,4,FALSE,2,TRUE,2,Apartment
+10336727,deinze,for-sale,9800,TRUE,210003,TRUE,98 m² square meters,FALSE,0,0,FALSE,5,FALSE,3,TRUE,3,Apartment
+10337841,anderlecht,for-sale,1070,TRUE,299000,TRUE,122 m² square meters,FALSE,153 m² square meters,2,FALSE,2,TRUE,108 m² square meters,TRUE,16 m² square meters,House
+10337966,waterloo,for-sale,1410,TRUE,299001,TRUE,123 m² square meters,FALSE,154 m² square meters,3,FALSE,3,TRUE,109 m² square meters,TRUE,17 m² square meters,Apartment
+10337320,harelbeke,for-sale,8530,TRUE,299002,TRUE,124 m² square meters,FALSE,155 m² square meters,4,FALSE,4,TRUE,110 m² square meters,TRUE,18 m² square meters,House
+10336715,deinze,for-sale,9800,TRUE,299003,TRUE,125 m² square meters,FALSE,156 m² square meters,5,FALSE,5,TRUE,111 m² square meters,TRUE,19 m² square meters,House
+10337760,braine-lalleud,for-sale,1420,TRUE,299004,TRUE,126 m² square meters,FALSE,157 m² square meters,6,FALSE,6,TRUE,112 m² square meters,TRUE,20 m² square meters,Apartment
+10337532,halle,for-sale,1500,TRUE,380000,TRUE,131 m² square meters,FALSE,0,0,FALSE,3,FALSE,0,TRUE,11 m² square meters,Apartment
+10337150,braine-lalleud,for-sale,1420,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336704,gent,for-sale,9000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10336505,ixelles,for-sale,1050,TRUE,465000,TRUE,95 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,4 m² square meters,Apartment
+10273116,vilvoorde,for-sale,1800,TRUE,470000,TRUE,250 m² square meters,FALSE,220 m² square meters,2,FALSE,5,TRUE,110 m² square meters,TRUE,20 m² square meters,House
+10336734,oosterzele,for-sale,9860,TRUE,470000,TRUE,171 m² square meters,FALSE,1789 m² square meters,4,FALSE,3,TRUE,1396 m² square meters,TRUE,16 m² square meters,House
+10337104,ixelles,for-sale,1050,TRUE,550000,TRUE,200 m² square meters,FALSE,0,2,FALSE,4,FALSE,0,TRUE,4 m² square meters,Apartment
+10337092,ath-ostiches,for-sale,7804,TRUE,585000,TRUE,172 m² square meters,FALSE,2180 m² square meters,4,FALSE,3,TRUE,1700 m² square meters,TRUE,5 m² square meters,House
+10336790,ixelles,for-sale,1050,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10336498,dilbeek,for-sale,1700,TRUE,665000,TRUE,341 m² square meters,FALSE,801 m² square meters,4,FALSE,4,FALSE,0,TRUE,0,Mixed-use building
+10336785,uccle,for-sale,1180,TRUE,170000,TRUE,100 m² square meters,FALSE,1056 m² square meters,4,FALSE,3,TRUE,880 m² square meters,FALSE,0,Apartment
+10336811,ixelles,for-sale,1050,TRUE,170001,TRUE,101 m² square meters,FALSE,1057 m² square meters,5,FALSE,4,TRUE,881 m² square meters,FALSE,1,Apartment
+10333235,vaux-sous-chevremont,for-sale,4051,TRUE,170000,TRUE,100 m² square meters,FALSE,1056 m² square meters,4,FALSE,3,TRUE,880 m² square meters,FALSE,0,House
+10334188,veurne,for-sale,8630,TRUE,170001,TRUE,101 m² square meters,FALSE,1057 m² square meters,5,FALSE,4,TRUE,881 m² square meters,FALSE,1,Apartment
+10333810,anderlecht,for-sale,1070,TRUE,170002,TRUE,102 m² square meters,FALSE,1058 m² square meters,6,FALSE,5,TRUE,882 m² square meters,FALSE,2,Apartment
+10333713,auderghem,for-sale,1160,TRUE,170003,TRUE,103 m² square meters,FALSE,1059 m² square meters,7,FALSE,6,TRUE,883 m² square meters,FALSE,3,Apartment
+10335072,blankenberge,for-sale,8370,TRUE,170004,TRUE,104 m² square meters,FALSE,1060 m² square meters,8,FALSE,7,TRUE,884 m² square meters,FALSE,4,Apartment
+10333531,ronse,for-sale,9600,TRUE,289500,TRUE,216 m² square meters,TRUE,403 m² square meters,2,FALSE,4,TRUE,300 m² square meters,TRUE,10 m² square meters,House
+10335736,schaerbeek,for-sale,1030,TRUE,295000,TRUE,85 m² square meters,FALSE,0,0,FALSE,2,FALSE,0,TRUE,6 m² square meters,Apartment
+10333345,gijzegem,for-sale,9308,TRUE,310000,TRUE,85 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,18 m² square meters,Apartment
+10333592,tintigny,for-sale,6730,TRUE,315000,TRUE,122 m² square meters,FALSE,1936 m² square meters,4,FALSE,4,TRUE,18 m² square meters,TRUE,11 m² square meters,House
+10342777,langemark-poelkapelle,for-sale,8920,TRUE,169000,TRUE,132 m² square meters,FALSE,186 m² square meters,0,FALSE,2,TRUE,0,TRUE,0,House
+10342776,kortemark,for-sale,8610,FALSE,329000,FALSE,172 m² square meters,FALSE,1050 m² square meters,0,FALSE,3,TRUE,0,FALSE,0,House
+10342775,gistel,for-sale,8470,FALSE,689000,FALSE,0,FALSE,2400 m² square meters,0,FALSE,1,FALSE,0,FALSE,0,House
+10342774,zingem,for-sale,9750,FALSE,399500,TRUE,150 m² square meters,FALSE,0,0,FALSE,3,TRUE,0,TRUE,0,Apartment
+10342772,evergem,for-sale,9940,TRUE,349000,TRUE,161 m² square meters,FALSE,216 m² square meters,0,FALSE,2,TRUE,0,FALSE,0,House
+10342766,poppel,for-sale,2382,TRUE,249000,TRUE,156 m² square meters,FALSE,610 m² square meters,3,FALSE,3,TRUE,345 m² square meters,FALSE,0,House
+10342765,knokke,for-sale,8300,FALSE,11000000,FALSE,995 m² square meters,FALSE,2348 m² square meters,0,TRUE,8,TRUE,0,TRUE,0,Mixed-use building
+10342764,knokke,for-sale,8300,TRUE,625000,FALSE,121 m² square meters,FALSE,121 m² square meters,0,FALSE,3,TRUE,0,TRUE,0,House
+10334027,herstal,for-sale,4040,TRUE,329000,TRUE,216 m² square meters,FALSE,894 m² square meters,3,FALSE,4,TRUE,770 m² square meters,TRUE,120 m² square meters,House
+10333199,woluwe-saint-lambert,for-sale,1200,TRUE,340000,TRUE,117 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,17 m² square meters,Apartment
+10333783,bruxelles,for-sale,1000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10334699,schaerbeek,for-sale,1030,TRUE,430000,TRUE,132 m² square meters,FALSE,0,0,FALSE,3,FALSE,0,TRUE,45 m² square meters,Apartment
+10333485,gent,for-sale,9000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10333214,zaventem,for-sale,1930,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10333186,bruxelles,for-sale,1000,TRUE,595000,TRUE,125 m² square meters,TRUE,0,2,TRUE,2,FALSE,0,TRUE,12 m² square meters,Apartment
+10333352,wezembeek-oppem,for-sale,1970,TRUE,595000,TRUE,170 m² square meters,FALSE,0,2,FALSE,3,FALSE,0,TRUE,9 m² square meters,Mixed-use building
+10333351,woluwe-saint-pierre,for-sale,1150,TRUE,600000,TRUE,165 m² square meters,FALSE,0,0,FALSE,3,FALSE,0,TRUE,8 m² square meters,Apartment
+10332223,maisieres,for-sale,7020,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10331101,huy,for-sale,4500,TRUE,242500,TRUE,80 m² square meters,FALSE,0,4,FALSE,2,TRUE,0,TRUE,9 m² square meters,Apartment
+10332381,liedekerke,for-sale,1770,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10330809,huy,for-sale,4500,TRUE,299000,TRUE,135 m² square meters,FALSE,0,0,FALSE,3,FALSE,0,TRUE,9 m² square meters,House
+10331945,roeselare,for-sale,8800,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10331724,la-hulpe,for-sale,1310,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10331855,lasne,for-sale,1380,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10332256,bruxelles,for-sale,1000,TRUE,378000,TRUE,92 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,18 m² square meters,Apartment
+10331889,lier,for-sale,2500,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10331019,ottignies-louvain-la-neuve-louvain-la-neuve,for-sale,1348,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10330920,mont-saint-guibert,for-sale,1435,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10332449,gent,for-sale,9000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,House
+10330855,bierges,for-sale,1301,TRUE,650000,TRUE,250 m² square meters,FALSE,1080 m² square meters,4,FALSE,3,TRUE,0,TRUE,25 m² square meters,Mixed-use building
+10330799,knokke-heist,for-sale,8300,TRUE,739000,TRUE,72 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,0,Apartment
+10332002,etterbeek,for-sale,1040,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10331905,woluwe-saint-pierre,for-sale,1150,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10331963,woluwe-saint-lambert,for-sale,1200,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10330870,woluwe-saint-lambert,for-sale,1200,TRUE,980000,TRUE,335 m² square meters,FALSE,1365 m² square meters,3,FALSE,6,TRUE,1050 m² square meters,TRUE,18 m² square meters,House
+10331096,knokke-heist,for-sale,8300,TRUE,1250000,TRUE,110 m² square meters,FALSE,0,2,FALSE,3,FALSE,0,TRUE,12 m² square meters,Apartment
+10340809,vaux-et-borset,for-sale,4530,TRUE,349000,TRUE,220 m² square meters,FALSE,1245 m² square meters,4,FALSE,4,TRUE,1100 m² square meters,TRUE,40 m² square meters,House
+10340871,laeken,for-sale,1020,TRUE,399000,TRUE,145 m² square meters,FALSE,122 m² square meters,2,FALSE,3,TRUE,64 m² square meters,TRUE,4 m² square meters,House
+10342777,langemark-poelkapelle,for-sale,8920,TRUE,169000,TRUE,132 m² square meters,FALSE,186 m² square meters,0,FALSE,2,TRUE,0,TRUE,0,House
+10342776,kortemark,for-sale,8610,FALSE,329000,FALSE,172 m² square meters,FALSE,1050 m² square meters,0,FALSE,3,TRUE,0,FALSE,0,House
+10342775,gistel,for-sale,8470,FALSE,689000,FALSE,0,FALSE,2400 m² square meters,0,FALSE,1,FALSE,0,FALSE,0,House
+10342774,zingem,for-sale,9750,FALSE,399500,TRUE,150 m² square meters,FALSE,0,0,FALSE,3,TRUE,0,TRUE,0,Apartment
+10342772,evergem,for-sale,9940,TRUE,349000,TRUE,161 m² square meters,FALSE,216 m² square meters,0,FALSE,2,TRUE,0,FALSE,0,House
+10342766,poppel,for-sale,2382,TRUE,249000,TRUE,156 m² square meters,FALSE,610 m² square meters,3,FALSE,3,TRUE,345 m² square meters,FALSE,0,House
+10342765,knokke,for-sale,8300,FALSE,11000000,FALSE,995 m² square meters,FALSE,2348 m² square meters,0,TRUE,8,TRUE,0,TRUE,0,Mixed-use building
+10342764,knokke,for-sale,8300,TRUE,625000,FALSE,121 m² square meters,FALSE,121 m² square meters,0,FALSE,3,TRUE,0,TRUE,0,House
+10340800,gent,for-sale,9000,TRUE,2158000,TRUE,470 m² square meters,FALSE,206 m² square meters,2,FALSE,13,FALSE,0,TRUE,45 m² square meters,Mixed-use building
+10341522,liege,for-sale,4020,TRUE,189000,TRUE,71 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,FALSE,0,Mixed-use building
+10340849,jette,for-sale,1090,TRUE,220000,TRUE,100 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,FALSE,0,Apartment
+10340845,schaerbeek,for-sale,1030,TRUE,240000,TRUE,62 m² square meters,FALSE,0,2,FALSE,1,FALSE,0,FALSE,0,Apartment
+10340848,woluwe-saint-lambert,for-sale,1200,TRUE,240000,TRUE,83 m² square meters,FALSE,0,2,TRUE,3,FALSE,0,TRUE,8 m² square meters,Mixed-use building
+10340847,zaventem,for-sale,1932,TRUE,240000,TRUE,83 m² square meters,FALSE,0,2,TRUE,3,FALSE,0,TRUE,8 m² square meters,Mixed-use building
+10341181,anderlecht,for-sale,1070,TRUE,249000,TRUE,54 m² square meters,TRUE,0,2,FALSE,1,FALSE,0,TRUE,45 m² square meters,Apartment
+10340842,evere,for-sale,1140,TRUE,249000,TRUE,89 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,4 m² square meters,Apartment
+10340843,woluwe-saint-lambert,for-sale,1200,TRUE,450000,TRUE,105 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,TRUE,15 m² square meters,Apartment
+10338728,sprimont,for-sale,4141,TRUE,180000,TRUE,146 m² square meters,FALSE,124 m² square meters,2,FALSE,3,FALSE,0,TRUE,32 m² square meters,House
+10338729,chaudfontaine,for-sale,4050,TRUE,299000,TRUE,168 m² square meters,FALSE,1000 m² square meters,4,FALSE,4,TRUE,600 m² square meters,TRUE,33 m² square meters,House
+10339132,braine-lalleud,for-sale,1420,TRUE,380000,TRUE,95 m² square meters,FALSE,525 m² square meters,4,FALSE,3,TRUE,150 m² square meters,TRUE,8 m² square meters,Mixed-use building
+10339133,braine-lalleud-ophain-bois-seigneur-isaac,for-sale,1421,TRUE,380000,TRUE,95 m² square meters,FALSE,525 m² square meters,4,FALSE,3,TRUE,150 m² square meters,TRUE,8 m² square meters,Mixed-use building
+10338805,woluwe-saint-pierre,for-sale,1150,TRUE,1895000,TRUE,371 m² square meters,FALSE,1610 m² square meters,3,FALSE,8,TRUE,1317 m² square meters,TRUE,0,House
+10340161,brussels-city,for-sale,1000,TRUE,164000,TRUE,34 m² square meters,TRUE,0,2,FALSE,0,FALSE,0,FALSE,0,Mixed-use building
+10340392,ganshoren,for-sale,1083,TRUE,240000,TRUE,76 m² square meters,FALSE,0,0,FALSE,2,FALSE,0,TRUE,17 m² square meters,Apartment
+10338921,ixelles,for-sale,1050,TRUE,560000,TRUE,120 m² square meters,FALSE,0,2,FALSE,2,FALSE,0,FALSE,0,Apartment
+10329602,hoboken,for-sale,2660,TRUE,225000,TRUE,82 m² square meters,FALSE,0,0,FALSE,2,FALSE,0,TRUE,6 m² square meters,Apartment
+10329912,scherpenheuvel-zichem,for-sale,3271,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329619,scherpenheuvel-zichem,for-sale,3271,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329275,dendermonde,for-sale,9200,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329262,dendermonde,for-sale,9200,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329528,wavre,for-sale,1300,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329519,bierges,for-sale,1301,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329287,flemalle-mons-lez-liege,for-sale,4400,TRUE,334000,TRUE,154 m² square meters,FALSE,759 m² square meters,3,FALSE,3,TRUE,462 m² square meters,TRUE,24 m² square meters,House
+10329800,evere,for-sale,1140,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329171,bruxelles,for-sale,1000,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329761,evere,for-sale,1140,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329268,dendermonde,for-sale,9200,FALSE,0,FALSE,0,FALSE,0,0,FALSE,0,FALSE,0,FALSE,0,Apartment
+10329286,liege-grivegnee,for-sale,4030,TRUE,349000,TRUE,178 m² square meters,FALSE,197 m² square meters,3,TRUE,3,TRUE,95 m² square meters,TRUE,150 m² square meters,Mixed-use building
+10342777,langemark-poelkapelle,for-sale,8920,TRUE,169000,TRUE,132 m² square meters,FALSE,186 m² square meters,0,FALSE,2,TRUE,0,TRUE,0,House
+10342776,kortemark,for-sale,8610,FALSE,329000,FALSE,172 m² square meters,FALSE,1050 m² square meters,0,FALSE,3,TRUE,0,FALSE,0,House
+10342775,gistel,for-sale,8470,FALSE,689000,FALSE,0,FALSE,2400 m² square meters,0,FALSE,1,FALSE,0,FALSE,0,House
+10342774,zingem,for-sale,9750,FALSE,399500,TRUE,150 m² square meters,FALSE,0,0,FALSE,3,TRUE,0,TRUE,0,Apartment
+10342772,evergem,for-sale,9940,TRUE,349000,TRUE,161 m² square meters,FALSE,216 m² square meters,0,FALSE,2,TRUE,0,FALSE,0,House
+10342766,poppel,for-sale,2382,TRUE,249000,TRUE,156 m² square meters,FALSE,610 m² square meters,3,FALSE,3,TRUE,345 m² square meters,FALSE,0,House
+10342765,knokke,for-sale,8300,FALSE,11000000,FALSE,995 m² square meters,FALSE,2348 m² square meters,0,TRUE,8,TRUE,0,TRUE,0,Mixed-use building
+10342764,knokke,for-sale,8300,TRUE,625000,FALSE,121 m² square meters,FALSE,121 m² square meters,0,FALSE,3,TRUE,0,TRUE,0,House

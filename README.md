@@ -30,6 +30,25 @@ Program consists of three different parts.
 3) The third part save all data in csv. All csv files are stored with the name "date & time"
 __________________________________________________________________________________
 PART II: Analysing data:
+
 !) Data Cleaning: performed all the task to clean the data to analysie
 2) Data Analysing: Done as per the details defined and checked all the variables
 3) Data Interpretation: worked on questions and plot 
+_______________________________________________________________________________________________
+
+Part III: Machine Learning Model
+
+Used more data to predict the price for houses. As i was not getting the required result on my previous data. So I have started my project with cleaning the data:
+
+Step 1: Data cleaning and preprocessing:
+To ensure that my data will predict good model and give good acurracy. I have done cleaning and 
+created some more column based upon region to narrow down my result.
+
+Step 2: Model selection and training:
+After analysing the data I have divided the dataset for training and testing.
+I have done testing some of Model to select the best one.
+
+Step 3: Model evaluation:
+We have achieved maximum accuracy of 81% with my model, by testing different models and making adjustments to the preprocessed data and features. 
+
+Usage: It is necessary to repeat steps 1-3 multiple times in order to achieve an optimal accuracy outcome. However, our majority of the time will be spent on preprocessing the data.
