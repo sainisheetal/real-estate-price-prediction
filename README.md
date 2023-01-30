@@ -62,4 +62,6 @@ We have achieved maximum accuracy of 81% with my model, by testing different mod
 ![random forest](https://user-images.githubusercontent.com/120012675/215513072-53b217f5-e4d7-4406-9731-df938675bbe1.png)
 
 Usage: It is necessary to repeat steps 1-3 multiple times in order to achieve an optimal accuracy outcome. However, our majority of the time will be spent on preprocessing the data.
+_______________________________________________________________________________________________
+Part VI: Deployment:
 
