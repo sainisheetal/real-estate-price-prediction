@@ -34,6 +34,15 @@ PART II: Analysing data:
 !) Data Cleaning: performed all the task to clean the data to analysie
 2) Data Analysing: Done as per the details defined and checked all the variables
 3) Data Interpretation: worked on questions and plot 
+
+Question:
+
+1) Comparing which type of property is expensive as per provinces ?![question1](https://user-images.githubusercontent.com/120012675/215512301-b5d1a580-ec2b-4bde-a4d3-5baff71cae89.png)
+
+
+2) does living area impact the price of the property type?
+![question2](https://user-images.githubusercontent.com/120012675/215512336-46c35574-c369-4140-b45d-27760c92993c.png)
+
 _______________________________________________________________________________________________
 
 Part III: Machine Learning Model
@@ -52,3 +61,4 @@ Step 3: Model evaluation:
 We have achieved maximum accuracy of 81% with my model, by testing different models and making adjustments to the preprocessed data and features. 
 
 Usage: It is necessary to repeat steps 1-3 multiple times in order to achieve an optimal accuracy outcome. However, our majority of the time will be spent on preprocessing the data.
+
