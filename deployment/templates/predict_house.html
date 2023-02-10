@@ -1,0 +1,28 @@
+  <body>
+   <div class="main">
+  	<h1>Brussels House Price prediction</h1>
+
+       <!-- Main Input For Receiving Query to our ML -->
+      <form action="{{ url_for('predict_house')}}"method="post">
+      	<input type="text" name="region" placeholder="region" required="required" />
+          <input type="int" name="number_of_rooms" placeholder="number_of_rooms" required="required" />
+  		    <input type="int" name="living_area" placeholder="living_area in m2" required="required" />
+          <input type="int" name="surface_of_the_land" placeholder="surface_of_the_land in m2" required="required" />
+          <input type="boolean" name="equipped_kitchen (1/0)" placeholder="fully_equipped_kitchen" required="required" />
+          <input type="boolean" name="open_fire" placeholder="open_fire(1/0)" required="required" />
+          <input type="boolean" name="terrace" placeholder="terrace(1/0)" required="required" />
+          <input type="boolean" name="garden" placeholder="garden(1/0)" required="required" />
+          <input type="int" name="number_of_facades" placeholder="number_of_facades" required="required" />
+          <input type="boolean" name="swimming_pool" placeholder="swimming_pool(1/0)" required="required" />
+          <input type="text" name="state_of_the_building" placeholder="state_of_the_building" required="required" />
+          
+          
+          <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+      </form>
+   </div>
+  </body>
+
+<img src="D:\Becode_Projects\real-estate-price-prediction\Images\housepic.png" alt="House" width="700px">
+
+
+
